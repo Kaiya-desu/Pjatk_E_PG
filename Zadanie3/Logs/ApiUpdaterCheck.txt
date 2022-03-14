@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 12/20/2021 10:37:54 PM : Starting /Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 124.06ms
+moved types parse time: 58ms
+candidates parse time : 3ms
+C# parse time         : 332ms
+candidates check time : 170ms
+console write time    : 0ms
+

@@ -1,0 +1,120 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a4fa303446bd24f75aed550802f5ff14
+# Starting compiling UnityEngine.UI.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-22b5608867d774a4f82b9164fd57ebb1
+# Starting compiling UnityEditor.TestRunner.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7c768b5ad5bf44733b97cc0ab61d2f8d
+# Starting compiling UnityEditor.UI.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e9ec2ff1a89a74ef5bf8645caca2ab58
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-19ab67f372a414ac79781755c155b631
+# Starting compiling Unity.VSCode.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0ab41a3aaf75a4006b8313e3c4142def
+# Starting compiling Unity.2D.PixelPerfect.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3416d6801024c45d7a881ec6ae9f8ad6
+# Starting compiling Unity.2D.Tilemap.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9c98cf5a233c645c7bb88fd572037188
+# Starting compiling PsdPlugin.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b86d2a5fdc39249388b14dc6698f4f41
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7af952b8a1d864ae9823fb4138828fac
+# Starting compiling Unity.Timeline.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-964be790ac69a4850b46359e9047cbf4
+# Starting compiling Unity.TextMeshPro.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1444dd5b6d78c40cba6f950e66f6af4f
+# Starting compiling Unity.2D.Sprite.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9437c98e31d4c45e68b24d267166e642
+# Starting compiling Unity.2D.Path.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-be3a53c64d7804a2b9a916ec7c11eb84
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f9410eb684cd04b2b9adb91a45210a8b
+# Starting compiling Unity.Rider.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b5f0f20f0bf17470fb9fac22e5bdca4b
+# Starting compiling Unity.Mathematics.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-73e0166e2a8df4a93b744d6c7085a49c
+# Starting compiling Unity.2D.IK.Runtime.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ff1216a837e244a189cab2a93fb242ee
+# Starting compiling Unity.Services.Core.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7941d2bcc12874257a368f1810d722f2
+# Starting compiling Unity.Burst.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-162493eab20ab47ec90da38296e1f7cc
+# Starting compiling Unity.2D.PixelPerfect.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-14878419e2a1a4de08335a83b0afc88a
+# Starting compiling Unity.Timeline.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-760e60fa6673d421ebf0e0b12d6927f1
+# Starting compiling Unity.InternalAPIEditorBridge.001.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6045b108d70a7434d863cad9113dc709
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3e2f51e040f5b4d6d9ebea9fa5461243
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c1cde0e6b68d34441b1487afc6280e73
+# Starting compiling Unity.Burst.CodeGen.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-327324312d96b4be2b3a85e50b0935d6
+# Starting compiling Unity.Burst.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fd6a089c9e1f74a379d865c86f60e41c
+# Starting IL post processing on UnityEngine.TestRunner.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-2559bb51fa32b424eb65e0755c86682c"
+# Starting IL post processing on UnityEditor.TestRunner.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-dc7050344337645bf816f2f7da4d61ab"
+# Starting IL post processing on UnityEngine.UI.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-fe3a8a4fe62584ba598cb446dafbea85"
+# Starting IL post processing on UnityEditor.UI.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-453db16b854f24d339d265d6e2b66bca"
+# Starting IL post processing on Unity.InternalAPIEngineBridge.001.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-8fb4795247a964235b20cca5bfb1488e"
+# Starting IL post processing on Unity.2D.PixelPerfect.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-4acb02219767a4da6812497327c4b06e"
+# Starting IL post processing on Unity.VSCode.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-f26e17dea0cb64510ac098f0519bbaef"
+# Starting IL post processing on PsdPlugin.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-71c93d432c8fa431885a6d293a7d84e1"
+# Starting IL post processing on Unity.VisualStudio.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-2ebce6de0113546dc85f2401e80f5aea"
+# Starting IL post processing on Unity.2D.Tilemap.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-1545ffc779a1146d2afa82d6c044e479"
+# Starting compiling Unity.Mathematics.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b6637601e6fb44edd8da3c21718cfcb1
+# Starting compiling Unity.2D.Common.Runtime.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b6540c043da6a441b994bec6b6cef991
+# Starting IL post processing on Unity.Timeline.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-7427732449a9d43d9b21d42aefa1cef3"
+# Starting IL post processing on Unity.2D.Path.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-4c90e41f38d3c45e6b4e463b9025aa14"
+# Starting IL post processing on Unity.2D.IK.Runtime.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-766fd6bf251a643268c9a76cf864946b"
+# Starting IL post processing on Unity.Rider.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-fdb8430ce7ff443aaaffdb077e56b25b"
+# Starting IL post processing on Unity.2D.Sprite.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-ae23917180721461aa334eb98098959d"
+# Starting IL post processing on Unity.Services.Core.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-b2d751eb051d8490894243caf1d7d569"
+# Starting IL post processing on Unity.2D.PixelPerfect.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-88a9e912968f1445d9aeaccd24ade9f4"
+# Starting IL post processing on Unity.TextMeshPro.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-b2c95e759880a47ce8aa4eb6ae5adc48"
+# Starting IL post processing on Unity.PlasticSCM.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-0da3107a4cac9445cbbd6f2be95b2916"
+# Starting IL post processing on Unity.CollabProxy.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-808d8f50b50a64ba8a98b9dacbbc73c1"
+# Starting IL post processing on Unity.TextMeshPro.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-a5c2c44c6015848638cc6a4aaeecfa0e"
+# Starting IL post processing on Unity.Burst.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-2e25ee950f0f149f59d7b7441b8dc7b1"
+# Starting IL post processing on Unity.Timeline.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-f66cd0c7672ef4b2980c4888789db309"
+# Starting compiling Unity.2D.Animation.Runtime.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0750650d249e343b8b65e0762cbfd0a2
+# Starting IL post processing on Unity.Burst.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-26c9e9694d9814beeb353167a6227dd5"
+# Starting IL post processing on Unity.Mathematics.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-694742314d02a41a69d98d6f1f3bb89b"
+# Starting IL post processing on Unity.Mathematics.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-9990a3b28146440009ab3cf9500c47cd"
+# Starting IL post processing on Unity.2D.Common.Runtime.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-f754a3285797b461dbd8e54fcfa8a5c1"
+# Starting compiling Unity.2D.Common.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-64eeb85c1da2a4573807d7e09258debc
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e3cd5ee71818046739348854a270d945
+# Starting IL post processing on Unity.2D.Common.Editor.dll
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/bin/mono "/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/Volumes/T7 Touch/Projects/E_PG/Zadanie4/Temp/UnityTempFile-83ab292e1b37d495a80f3dbb3be4b2b9"

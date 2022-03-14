@@ -1,0 +1,1135 @@
+Unity Editor version:    2020.3.24f1 (79c78de19888)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.2.1 (Build 21D62)
+Darwin version:          21.3.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Volumes/T7 Touch/Projects/E_PG/Zadanie3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64256
+Successfully changed project path to: /Volumes/T7 Touch/Projects/E_PG/Zadanie3
+/Volumes/T7 Touch/Projects/E_PG/Zadanie3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 70.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.24f1 (79c78de19888)
+[Subsystems] Discovering subsystems at path /Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/T7 Touch/Projects/E_PG/Zadanie3/Assets
+GfxDevice: creating device client; threaded=0
+2022-03-09 00:01:04.937 Unity[33395:948475] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2022-03-09 00:01:04.937 Unity[33395:948475] Metal devices available: 1
+2022-03-09 00:01:04.937 Unity[33395:948475] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2022-03-09 00:01:04.937 Unity[33395:948475] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
+Initialize mono
+Mono path[0] = '/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56395
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002179 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 61.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.745 seconds
+Domain Reload Profiling:
+	ReloadAssembly (745ms)
+		BeginReloadAssembly (50ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (608ms)
+			LoadAssemblies (52ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (207ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (252ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (61ms)
+				BeforeProcessingInitializeOnLoad (34ms)
+				ProcessInitializeOnLoadAttributes (117ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008347 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 62.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.524 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1526ms)
+		BeginReloadAssembly (173ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (1278ms)
+			LoadAssemblies (153ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (431ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (79ms)
+			SetupLoadedEditorAssemblies (463ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (62ms)
+				BeforeProcessingInitializeOnLoad (93ms)
+				ProcessInitializeOnLoadAttributes (278ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.027708 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.006717 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Volumes/T7 Touch/APPS/2020.3.24f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+2022-03-09 00:01:09.963 Unity[33395:948475] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600001515ff0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-03-09 00:01:09.967 Unity[33395:948475] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000150e760 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.5 MB.
+System memory in use after: 211.5 MB.
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 2956.
+Total: 5.242499 ms (FindLiveObjects: 0.288422 ms CreateObjectMapping: 0.120597 ms MarkObjects: 3.949342 ms  DeleteObjects: 0.882876 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Tilemap/AlienFlora_10.asset
+  artifactKey: Guid(6af36f951d72f435f882307a4b8f236f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_10.asset using Guid(6af36f951d72f435f882307a4b8f236f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a433fd20a02feebcfae93677f3c71bad') in 0.287468 seconds 
+  Import took 0.309332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Ceiling6.asset
+  artifactKey: Guid(9a036f97e2d534217b0e0b7b37b67303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Ceiling6.asset using Guid(9a036f97e2d534217b0e0b7b37b67303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1fa228d557a23e74acb8e1ef4fc71c') in 0.273602 seconds 
+  Import took 0.293099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Tilemap/AlienFlora_26.asset
+  artifactKey: Guid(d3824d9ae1e5844348ab07de2d372cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_26.asset using Guid(d3824d9ae1e5844348ab07de2d372cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd49a92d3bb69e335e441d66291da4d9b') in 0.014488 seconds 
+  Import took 0.020118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Tilemap/HangingPlants2_6.asset
+  artifactKey: Guid(acd214010483040a580c7c74532ea977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/HangingPlants2_6.asset using Guid(acd214010483040a580c7c74532ea977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eac71ab9a5bd8292cd6eaabd7f61fd9') in 0.026850 seconds 
+  Import took 0.031972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Floor0.asset
+  artifactKey: Guid(d1e229620935a40a4a802eefd08ccf87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Floor0.asset using Guid(d1e229620935a40a4a802eefd08ccf87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd232832edbd3f8d70300dedbe21f4753') in 0.075489 seconds 
+  Import took 0.093101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Tilemap/HangingPlants2_0.asset
+  artifactKey: Guid(5903bd1a86d5147699e154b94b0c2cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/HangingPlants2_0.asset using Guid(5903bd1a86d5147699e154b94b0c2cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '191f2839ad838494587cc37ce06b8f31') in 0.011002 seconds 
+  Import took 0.016659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Tilemap/Tileset_Alien_89.asset
+  artifactKey: Guid(bfadf34e96ca045b8b1745e19bd2e6d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_89.asset using Guid(bfadf34e96ca045b8b1745e19bd2e6d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efb0db1e9bfee507203f3d661134c770') in 0.067467 seconds 
+  Import took 0.084048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Tilemap/FloatingRocks_7.asset
+  artifactKey: Guid(2244a52fa4a1b472cb1deb8618d79f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_7.asset using Guid(2244a52fa4a1b472cb1deb8618d79f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4757c3cea61efab22616f7835f84d57d') in 0.023390 seconds 
+  Import took 0.028220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Tilemap/AlienFlora_51.asset
+  artifactKey: Guid(c5a7b5d2202c1451e87f1f976797c070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_51.asset using Guid(c5a7b5d2202c1451e87f1f976797c070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d8a9c10ae476febc393ca6b05d784b') in 0.013979 seconds 
+  Import took 0.019149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tilemap/Tileset_Alien_FloorSingleBlock3.asset
+  artifactKey: Guid(6332b2c2a45214a25af5bc10d8b95bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_FloorSingleBlock3.asset using Guid(6332b2c2a45214a25af5bc10d8b95bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aeb34090ab4295cc762a1829764c29d') in 0.093238 seconds 
+  Import took 0.111238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Tilemap/FloatingRocks_6.asset
+  artifactKey: Guid(8a08d3ac831414412a8ceb0b1cf020ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_6.asset using Guid(8a08d3ac831414412a8ceb0b1cf020ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf02b088fe477740ab409c5d3ee03163') in 0.009532 seconds 
+  Import took 0.014842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Tilemap/FloatingRocks_21.asset
+  artifactKey: Guid(fc4b2385f183049bd98b9fb24f69747b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_21.asset using Guid(fc4b2385f183049bd98b9fb24f69747b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd46aadff8659be2a5e84cbf21f5fe6a9') in 0.027826 seconds 
+  Import took 0.032299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Tilemap/AlienFlora_0.asset
+  artifactKey: Guid(4c0cf4aabc6e14ba6ba9b1ef08e584d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_0.asset using Guid(4c0cf4aabc6e14ba6ba9b1ef08e584d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac8873a50208217364e308e822b31813') in 0.011495 seconds 
+  Import took 0.016868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Tilemap/Tileset_Alien_FloorSingleBlockRight.asset
+  artifactKey: Guid(71a8c567b60d449179a2f683b5fb4a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_FloorSingleBlockRight.asset using Guid(71a8c567b60d449179a2f683b5fb4a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb6e7c87511a00c867da038224be6df') in 0.081075 seconds 
+  Import took 0.096691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Tilemap/BG.prefab
+  artifactKey: Guid(74b02d20618684b79aa268c9d1ab9fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/BG.prefab using Guid(74b02d20618684b79aa268c9d1ab9fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52e12019da2e92b9e27dc225f02d9f5') in 0.569919 seconds 
+  Import took 0.604514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Tilemap/Tileset_Alien_WallLeft1.asset
+  artifactKey: Guid(a4094182edfda470c88302c1349396e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_WallLeft1.asset using Guid(a4094182edfda470c88302c1349396e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12547fabee0633d407f0040261bbd314') in 0.097211 seconds 
+  Import took 0.114688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Tilemap/Tileset_Alien_LeftWallCorner.asset
+  artifactKey: Guid(b7fedc25406be401bba5b321e574c7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_LeftWallCorner.asset using Guid(b7fedc25406be401bba5b321e574c7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8744dbf6315b29cfe80fadda89ce2c5f') in 0.079116 seconds 
+  Import took 0.093582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Ceiling4.asset
+  artifactKey: Guid(a05f1d25bb06f4821b1377a3fb27d125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Ceiling4.asset using Guid(a05f1d25bb06f4821b1377a3fb27d125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a803107e974f518d5b6473dc21e2db75') in 0.083200 seconds 
+  Import took 0.098438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Tilemap/AlienFlora_6.asset
+  artifactKey: Guid(5082ba7338d1d4b208d898684b90227c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_6.asset using Guid(5082ba7338d1d4b208d898684b90227c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8832f9e8caca38b3137c48b9c15f9f93') in 0.012397 seconds 
+  Import took 0.017701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Tilemap/Tileset_Alien_SingleColumnwall3.asset
+  artifactKey: Guid(a6c99dfcd0dbf4cadb10a439463b9649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_SingleColumnwall3.asset using Guid(a6c99dfcd0dbf4cadb10a439463b9649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deeb79cdc847ce44462305fb10c64442') in 0.094568 seconds 
+  Import took 0.109874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Tilemap/Tileset_Alien_SingleBlockCornerLeft.asset
+  artifactKey: Guid(f64bed611db7d4d5fa05928ab9b77b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_SingleBlockCornerLeft.asset using Guid(f64bed611db7d4d5fa05928ab9b77b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e62242403e3e8df7cda183bae168626f') in 0.086710 seconds 
+  Import took 0.102691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Tilemap/FloatingRocks_9.asset
+  artifactKey: Guid(441e85aec49234a06aa9f0f41d882040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_9.asset using Guid(441e85aec49234a06aa9f0f41d882040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817a1619615a6cc157e5fa0740436c85') in 0.016942 seconds 
+  Import took 0.021859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Tilemap/AlienFlora_14.asset
+  artifactKey: Guid(6ccc7cfbadc7340daa4b4d5f072e24f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_14.asset using Guid(6ccc7cfbadc7340daa4b4d5f072e24f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c0af82461d0e6c6cbee5366d31045e4') in 0.037838 seconds 
+  Import took 0.042418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Tilemap/Tileset_Alien_FloorSingleBlock0.asset
+  artifactKey: Guid(a4b885089bcad436bb592fe65f46e16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_FloorSingleBlock0.asset using Guid(a4b885089bcad436bb592fe65f46e16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd107520a825510ee5a78577fdf8da942') in 0.067879 seconds 
+  Import took 0.081999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Tilemap/AlienFlora_39.asset
+  artifactKey: Guid(de520a27bdae840c6a1a3a10fd600337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_39.asset using Guid(de520a27bdae840c6a1a3a10fd600337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a4b4df0589e17797c4047788ee63b7') in 0.032781 seconds 
+  Import took 0.037971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Tilemap/Tileset_Alien_FloorSingleBlock2.asset
+  artifactKey: Guid(2bc2b24e41bce4211835a622058f8dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_FloorSingleBlock2.asset using Guid(2bc2b24e41bce4211835a622058f8dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e84265d51c8b41040c078f456c08ede8') in 0.082527 seconds 
+  Import took 0.098335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Tilemap/AlienFlora_42.asset
+  artifactKey: Guid(d22cc65a0c5fd47f08406cb901d9dc28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_42.asset using Guid(d22cc65a0c5fd47f08406cb901d9dc28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ec7bca7ae855bb8b04d9d54de4f860') in 0.014088 seconds 
+  Import took 0.018767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Tilemap/AlienFlora_3.asset
+  artifactKey: Guid(fe4a520b9f65e47e49b6453c661288c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_3.asset using Guid(fe4a520b9f65e47e49b6453c661288c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4f967b78a91ca14f5b9cc4e93c559c8') in 0.022524 seconds 
+  Import took 0.027114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Tilemap/AlienFlora_35.asset
+  artifactKey: Guid(6939a81f256844c33828aab87e820143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_35.asset using Guid(6939a81f256844c33828aab87e820143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205bf527e351a24682cabfab3ade4a29') in 0.022977 seconds 
+  Import took 0.027894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/Tilemap/AlienFlora_20.asset
+  artifactKey: Guid(eeb7c6624e97d427189ad7468985c7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_20.asset using Guid(eeb7c6624e97d427189ad7468985c7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af5fda12ad96976779246311b80f57dc') in 0.018874 seconds 
+  Import took 0.024100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Tilemap/AlienFlora_7.asset
+  artifactKey: Guid(50cec4186a8fa4fbf8fc45436d59bd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_7.asset using Guid(50cec4186a8fa4fbf8fc45436d59bd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ab17b8bf12121d01bf80cab59c229f') in 0.012672 seconds 
+  Import took 0.016859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Tilemap/AlienFlora_52.asset
+  artifactKey: Guid(21daf5c1dbde84020b9c465034cac293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_52.asset using Guid(21daf5c1dbde84020b9c465034cac293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feee2c97d3fd219f4d5920b020fbee72') in 0.011611 seconds 
+  Import took 0.015162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Tilemap/AlienFlora_36.asset
+  artifactKey: Guid(184bc54144c5a44ae8497c5ddaac8964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_36.asset using Guid(184bc54144c5a44ae8497c5ddaac8964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9800b0b06816f0ed004795adebdf7d95') in 0.014271 seconds 
+  Import took 0.018319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Tilemap/extras.prefab
+  artifactKey: Guid(b78e2696bc01c4452a0d0f7ee89649d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/extras.prefab using Guid(b78e2696bc01c4452a0d0f7ee89649d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd6ed6d24789ab4542bdbed3db22551') in 0.049761 seconds 
+  Import took 0.055507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Tilemap/HangingPlants2_2.asset
+  artifactKey: Guid(193b83e7804bb4177a8bb8c6004e6f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/HangingPlants2_2.asset using Guid(193b83e7804bb4177a8bb8c6004e6f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72ef46861ef26d128c372f55cd6b7100') in 0.019602 seconds 
+  Import took 0.023786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Tilemap/Tileset_Alien_FloorCornerOuterRight.asset
+  artifactKey: Guid(9efcba7a9d77249979c7c0c9bb25420e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_FloorCornerOuterRight.asset using Guid(9efcba7a9d77249979c7c0c9bb25420e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f06b26dea6afb37cfea821c9995d75') in 0.076565 seconds 
+  Import took 0.091813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Tilemap/Tileset_Alien_SingleColumnCentreCeiling.asset
+  artifactKey: Guid(d2ba1ada35ad2452f8d29cd5b628ce89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_SingleColumnCentreCeiling.asset using Guid(d2ba1ada35ad2452f8d29cd5b628ce89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881453e52e92f8b0b42163b2f4139933') in 0.072741 seconds 
+  Import took 0.087733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Tilemap/AlienFlora_16.asset
+  artifactKey: Guid(ab2211bcbc7ef4b538bbf351369c15d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_16.asset using Guid(ab2211bcbc7ef4b538bbf351369c15d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73e67b0dad15f4acff6f8c84bad0312d') in 0.010377 seconds 
+  Import took 0.015074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Tilemap/AlienFlora_22.asset
+  artifactKey: Guid(392a840fa5b024d6e8e35fca519e0a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_22.asset using Guid(392a840fa5b024d6e8e35fca519e0a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a574588165cbb2ed4ba3b76c69ece127') in 0.017587 seconds 
+  Import took 0.021937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Tilemap/AlienFlora_45.asset
+  artifactKey: Guid(e573756a95e654d1eb33a6c70fec1192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_45.asset using Guid(e573756a95e654d1eb33a6c70fec1192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd3f20299c96631c9c1b9004220c0117') in 0.021284 seconds 
+  Import took 0.025261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Tilemap/Tileset_Alien_SingleColumnBottom.asset
+  artifactKey: Guid(32b06888df9784105adf8d167eb4d45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_SingleColumnBottom.asset using Guid(32b06888df9784105adf8d167eb4d45c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2b1b06d0462d6fd63e15bf266e08ea') in 0.068234 seconds 
+  Import took 0.083419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Tilemap/FloatingRocks_12.asset
+  artifactKey: Guid(1a014e938b62949c2b6ff17056507823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_12.asset using Guid(1a014e938b62949c2b6ff17056507823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3c4cf8df7fdbd476ad71f30a7a80a5') in 0.018422 seconds 
+  Import took 0.023029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Tilemap/Tileset_Alien_SingleBlock.asset
+  artifactKey: Guid(806bde73a1da14b0daaf935ff992a03f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_SingleBlock.asset using Guid(806bde73a1da14b0daaf935ff992a03f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '925096ffb868599790ef2d5e675f8ce9') in 0.082763 seconds 
+  Import took 0.096504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Tilemap/Tileset_Alien_SingleBlockCornerRight.asset
+  artifactKey: Guid(e7a6b079ae2cd4760af05dc4badc4f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_SingleBlockCornerRight.asset using Guid(e7a6b079ae2cd4760af05dc4badc4f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1246ceb71313b40bfca8c53e9e356560') in 0.076607 seconds 
+  Import took 0.092066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Tilemap/AlienFlora_19.asset
+  artifactKey: Guid(4da81af11ee5840e7be17e07124db6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_19.asset using Guid(4da81af11ee5840e7be17e07124db6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '193da612a147a60656b1c9d4cb444b9e') in 0.019243 seconds 
+  Import took 0.023446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Tilemap/AlienFlora_21.asset
+  artifactKey: Guid(6fc0daf5c3b8043309822552fd4faf9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_21.asset using Guid(6fc0daf5c3b8043309822552fd4faf9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b35d12d88621229e879e25eb2ba129') in 0.028447 seconds 
+  Import took 0.032458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Tilemap/Tileset_Alien_80.asset
+  artifactKey: Guid(71ab59739ec29439e8f6eb1f65e35104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_80.asset using Guid(71ab59739ec29439e8f6eb1f65e35104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8046ff4b1a66169a99f320a967bb656') in 0.068542 seconds 
+  Import took 0.083596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Tilemap
+  artifactKey: Guid(6dd1ab9b98a27494abfdbe2ce100d9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap using Guid(6dd1ab9b98a27494abfdbe2ce100d9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f1363f38e75d1387fa4de33c085bd37') in 0.001194 seconds 
+  Import took 0.005336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Tilemap/FloatingRocks_15.asset
+  artifactKey: Guid(e635bdaccafbc4a5b93f273d1664be41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_15.asset using Guid(e635bdaccafbc4a5b93f273d1664be41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '107ed1b70bb9e2a5478ce9dabee730d9') in 0.035242 seconds 
+  Import took 0.040293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Tilemap/FloatingRocks_3.asset
+  artifactKey: Guid(c40d9e361413d4b9883835b7e2d2a2b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_3.asset using Guid(c40d9e361413d4b9883835b7e2d2a2b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f7f47bd3fbd83c87b84da1579d7d70') in 0.025877 seconds 
+  Import took 0.031372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Tilemap/FloatingRocks_8.asset
+  artifactKey: Guid(bc0509386e9454ab1870db6d2142b5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_8.asset using Guid(bc0509386e9454ab1870db6d2142b5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1936cf9c353d900c7432d0aa36f29853') in 0.012940 seconds 
+  Import took 0.017438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Tilemap/Tileset_Alien_FloorCornerInnerRight0.asset
+  artifactKey: Guid(6604ea40dce494b638819736c35a929e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_FloorCornerInnerRight0.asset using Guid(6604ea40dce494b638819736c35a929e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e855ed3c5193e75ea3080f06a1e765a9') in 0.078380 seconds 
+  Import took 0.092890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Tilemap/FloatingRocks_19.asset
+  artifactKey: Guid(536f54c92795049f0953572db10542dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_19.asset using Guid(536f54c92795049f0953572db10542dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8105372e9ca44637b8ab72bbb11e846a') in 0.012116 seconds 
+  Import took 0.016463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Tilemap/HangingPlants2_5.asset
+  artifactKey: Guid(5257a92d49898487ba169c0910316691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/HangingPlants2_5.asset using Guid(5257a92d49898487ba169c0910316691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4363b15dc28115a2e25e08690dd6f36b') in 0.020519 seconds 
+  Import took 0.024483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Tilemap/AlienFlora_17.asset
+  artifactKey: Guid(7d7ce9c80b9cb45d291455938764e0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_17.asset using Guid(7d7ce9c80b9cb45d291455938764e0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89701b0495b7ed2a977e806ea4facc17') in 0.027442 seconds 
+  Import took 0.031679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Tilemap/FloatingRocks_4.asset
+  artifactKey: Guid(5501cc7b4f3a440a6abb8d4b3210d912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_4.asset using Guid(5501cc7b4f3a440a6abb8d4b3210d912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad3140ae8ead152da7ebfe8c13afb58') in 0.034091 seconds 
+  Import took 0.037897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Tilemap/AlienFlora_23.asset
+  artifactKey: Guid(ea113ba1021354ca59107aa0811e2317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_23.asset using Guid(ea113ba1021354ca59107aa0811e2317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6808a2e49b8821a9eca95fc74f480ba') in 0.011286 seconds 
+  Import took 0.015705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Tilemap/Tileset_Alien_FloorSingleBlock.asset
+  artifactKey: Guid(e24e2d7e16709418c98e43c779f87a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_FloorSingleBlock.asset using Guid(e24e2d7e16709418c98e43c779f87a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40986dd7fabe73fc4f2a764d756f46c6') in 0.105139 seconds 
+  Import took 0.121048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Tilemap/Tileset_Alien_FloorCornerOuterLeft.asset
+  artifactKey: Guid(3f20a34756fe547b688f0cf3c20b5fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_FloorCornerOuterLeft.asset using Guid(3f20a34756fe547b688f0cf3c20b5fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af781c1529af9087610550d21707c4c4') in 0.075436 seconds 
+  Import took 0.089957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Floor6.asset
+  artifactKey: Guid(24a766f8b9d494eff860503321c9f516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Floor6.asset using Guid(24a766f8b9d494eff860503321c9f516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf8aee0967fc78f9d5bc86f261dbed2') in 0.076379 seconds 
+  Import took 0.095504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Tilemap/FloatingRocks_14.asset
+  artifactKey: Guid(5354c5a92d1794507808ecb49a4bcf64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_14.asset using Guid(5354c5a92d1794507808ecb49a4bcf64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c949f28b076d9ea7874bf7510bb0f6d0') in 0.041111 seconds 
+  Import took 0.046150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Tilemap/HangingPlants2_4.asset
+  artifactKey: Guid(171515486908045ff9d550dc8e0f71d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/HangingPlants2_4.asset using Guid(171515486908045ff9d550dc8e0f71d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1cfb47ec9f12f5005eac266bd7be60') in 0.012115 seconds 
+  Import took 0.016633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Tilemap/AlienFlora_24.asset
+  artifactKey: Guid(2fcee211982584468a855f62febf4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_24.asset using Guid(2fcee211982584468a855f62febf4d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b707d9a785f56bdfdba424f236745f25') in 0.010281 seconds 
+  Import took 0.014216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Ceiling1.asset
+  artifactKey: Guid(f36910a483cf34a70be6e7671ad09122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Ceiling1.asset using Guid(f36910a483cf34a70be6e7671ad09122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c28a14581a9ff9b1a145d6bd2c076fec') in 0.078839 seconds 
+  Import took 0.094052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Tilemap/Tileset_Alien_FloorSingleBlock1.asset
+  artifactKey: Guid(7094f5f70c32441eb9f0c0b327ad5eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_FloorSingleBlock1.asset using Guid(7094f5f70c32441eb9f0c0b327ad5eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba9c3db340491f76fd403bffd2d6a38') in 0.081478 seconds 
+  Import took 0.096031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Ceiling3.asset
+  artifactKey: Guid(85f45b52f46854fc0b613750c83d2f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Ceiling3.asset using Guid(85f45b52f46854fc0b613750c83d2f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e395edf1bacfb325d50aff74504602e4') in 0.072682 seconds 
+  Import took 0.090388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Floor1.asset
+  artifactKey: Guid(99af4804923194c6496228c6f282c13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Floor1.asset using Guid(99af4804923194c6496228c6f282c13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c92b6edaa84ea232d3758e6d91bb73b9') in 0.076930 seconds 
+  Import took 0.092667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Tilemap/AlienFlora_48.asset
+  artifactKey: Guid(c1e947ee1db3246059854e0a5e1031aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_48.asset using Guid(c1e947ee1db3246059854e0a5e1031aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '857b05bf75628e011d9718dd07b8281a') in 0.021742 seconds 
+  Import took 0.026864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Tilemap/AlienFlora_12.asset
+  artifactKey: Guid(9d9d4c4a26edf48bb90a62d3e561e6d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_12.asset using Guid(9d9d4c4a26edf48bb90a62d3e561e6d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef613e0883dd7bc55984b00c1a7da6d7') in 0.012580 seconds 
+  Import took 0.017031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Tilemap/Tileset_Alien_CeilingCornerOuterRight.asset
+  artifactKey: Guid(1d28e017352ea45689e18bc08314bea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_CeilingCornerOuterRight.asset using Guid(1d28e017352ea45689e18bc08314bea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef10be728254dcea47c767ffe2f98ea') in 0.079703 seconds 
+  Import took 0.094787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Fill1.asset
+  artifactKey: Guid(f6073d14282e847e0adb9b98322e3808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Fill1.asset using Guid(f6073d14282e847e0adb9b98322e3808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68418624fa7a013684125fce5ae70986') in 0.096773 seconds 
+  Import took 0.112358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Tilemap/AlienFlora_5.asset
+  artifactKey: Guid(1d1dfa600cf6941169e874a6e31c3f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_5.asset using Guid(1d1dfa600cf6941169e874a6e31c3f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b4ca3c9b73a4e5b11210ce3974af478') in 0.027762 seconds 
+  Import took 0.031758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Tilemap/Tileset_Alien_SingleColumnwall1.asset
+  artifactKey: Guid(afed3911a63054b73a61f742fd80423c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_SingleColumnwall1.asset using Guid(afed3911a63054b73a61f742fd80423c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c12445c9517fe2fadc7714a118b2dfe') in 0.086698 seconds 
+  Import took 0.102820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Tilemap/Tileset_Alien_SingleColumnwall2.asset
+  artifactKey: Guid(ce4327ed2e4334daf9adde83bfcc9177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_SingleColumnwall2.asset using Guid(ce4327ed2e4334daf9adde83bfcc9177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f1e425b2d0cb8fbd74ff3d0e0e0861') in 0.102277 seconds 
+  Import took 0.120372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Tilemap/Tileset_Alien_SingleColumnwall0.asset
+  artifactKey: Guid(5bf457a8a572445e3b3f487031a447d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_SingleColumnwall0.asset using Guid(5bf457a8a572445e3b3f487031a447d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df7ed6c05df87590d2a265bf5101901') in 0.082180 seconds 
+  Import took 0.100199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Tilemap/AlienFlora_33.asset
+  artifactKey: Guid(e833a66a731b148dabae63c0f6e52bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_33.asset using Guid(e833a66a731b148dabae63c0f6e52bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c37e9fbf3500e0effee43e36f5a01b5') in 0.019940 seconds 
+  Import took 0.024646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Tilemap/HangingPlants2_1.asset
+  artifactKey: Guid(23d8fed544e434e41bf56169ab61931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/HangingPlants2_1.asset using Guid(23d8fed544e434e41bf56169ab61931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465e7c5936d916994fb9d2ea0521cb2c') in 0.029012 seconds 
+  Import took 0.033456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Tilemap/Tileset_Alien_WallLeft0.asset
+  artifactKey: Guid(d7c684036f9e243198e24a41fc33870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_WallLeft0.asset using Guid(d7c684036f9e243198e24a41fc33870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06366f1de01ef538879524a31a77f7ee') in 0.069270 seconds 
+  Import took 0.086582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Tilemap/FloatingRocks_18.asset
+  artifactKey: Guid(3cbd8677d1a134d4ab947c26afbdee39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_18.asset using Guid(3cbd8677d1a134d4ab947c26afbdee39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c2264b4229b36a86d40fe8d1845c73') in 0.026376 seconds 
+  Import took 0.031813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Tilemap/AlienFlora_18.asset
+  artifactKey: Guid(cc22a48ea5c8b4703879791878ef7de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_18.asset using Guid(cc22a48ea5c8b4703879791878ef7de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb2827bfa5865e35832e198bc6b5b4f') in 0.014546 seconds 
+  Import took 0.018621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Tilemap/AlienFlora_1.asset
+  artifactKey: Guid(4c52dc280632844f6a9f51167284218d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_1.asset using Guid(4c52dc280632844f6a9f51167284218d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7b44c6df0d310cd178ce09ced08ab9') in 0.010929 seconds 
+  Import took 0.014983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Tilemap/FloatingRocks_16.asset
+  artifactKey: Guid(d1cb0b10cb3a84e2590f43dbc79dcae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_16.asset using Guid(d1cb0b10cb3a84e2590f43dbc79dcae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adebd542aae715a4fcf93402e4c00ade') in 0.016084 seconds 
+  Import took 0.020737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Tilemap/Tileset_Alien_CeilingCornerFloorLeft.asset
+  artifactKey: Guid(40d24c55e1b18452abfd8b4c85a8819a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_CeilingCornerFloorLeft.asset using Guid(40d24c55e1b18452abfd8b4c85a8819a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81eb01a86285235f68cca73844c12036') in 0.075036 seconds 
+  Import took 0.090885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Tilemap/FloatingRocks_11.asset
+  artifactKey: Guid(ddcea1dc60c094b10af6e68857effee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_11.asset using Guid(ddcea1dc60c094b10af6e68857effee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e966ee4196809dfa09d9bcc82be00346') in 0.017448 seconds 
+  Import took 0.022905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Tilemap/AlienFlora_32.asset
+  artifactKey: Guid(e20a713c1756c4d20a57fb9dfa8d379d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_32.asset using Guid(e20a713c1756c4d20a57fb9dfa8d379d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c114038057cd221035c6272e2b6eb238') in 0.010948 seconds 
+  Import took 0.015795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Tilemap/Tileset_Alien_RightWallCorner.asset
+  artifactKey: Guid(9b90eb331473b428a8e0180fc78192dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_RightWallCorner.asset using Guid(9b90eb331473b428a8e0180fc78192dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72564db102006e8d523484ae3670b0ee') in 0.073990 seconds 
+  Import took 0.090191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Fill5.asset
+  artifactKey: Guid(19924131e8b5c414e8b1f4733a99f650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Fill5.asset using Guid(19924131e8b5c414e8b1f4733a99f650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f82d81f5435de83f37660004f8bb53a') in 0.087049 seconds 
+  Import took 0.102549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Fill4.asset
+  artifactKey: Guid(d6854d7189ee74dc9a4787ebcda283d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Fill4.asset using Guid(d6854d7189ee74dc9a4787ebcda283d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e376321da172281bd064d00bfdd91d87') in 0.073402 seconds 
+  Import took 0.089184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Ceiling2.asset
+  artifactKey: Guid(f92fd15e375f742e699ba1d23ad50189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Ceiling2.asset using Guid(f92fd15e375f742e699ba1d23ad50189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59689eb8a5243320bcb894ba2ee8828') in 0.075212 seconds 
+  Import took 0.091743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Ceiling5.asset
+  artifactKey: Guid(788b388bd550449c98b56cc51c7018a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Ceiling5.asset using Guid(788b388bd550449c98b56cc51c7018a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2886ff624c6681679e8587a259310c8a') in 0.090233 seconds 
+  Import took 0.105781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Tilemap/FloatingRocks_2.asset
+  artifactKey: Guid(66b8d0c03d8e54007b5567c9d9e9a26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_2.asset using Guid(66b8d0c03d8e54007b5567c9d9e9a26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfedb28e8b65e9933eb74eeddd1ca43f') in 0.031594 seconds 
+  Import took 0.036102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Tilemap/Tileset_Alien_FloorCornerInnerLeft0.asset
+  artifactKey: Guid(c5a35929c6a0e47dcaad32657c04d63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_FloorCornerInnerLeft0.asset using Guid(c5a35929c6a0e47dcaad32657c04d63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef5f4da83901720d704d8334df1e2e46') in 0.091600 seconds 
+  Import took 0.105700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Tilemap/AlienFlora_9.asset
+  artifactKey: Guid(85ee24af9283c4634b7bb024bf55a1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_9.asset using Guid(85ee24af9283c4634b7bb024bf55a1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '108b4d388d228efd0ccdcec35952f708') in 0.014699 seconds 
+  Import took 0.019594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Tilemap/FloatingRocks_1.asset
+  artifactKey: Guid(601eb1276a56040e88fe3868e96dc238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_1.asset using Guid(601eb1276a56040e88fe3868e96dc238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '500015b5e3c61e794cdcf228a2a970e3') in 0.011248 seconds 
+  Import took 0.016358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Tilemap/Tileset_Alien_CeilingCornerOuterLeft.asset
+  artifactKey: Guid(578c019e538c74a288df1d1744d6d7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_CeilingCornerOuterLeft.asset using Guid(578c019e538c74a288df1d1744d6d7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d309673748d94da63c2c2b74109eb3b') in 0.085878 seconds 
+  Import took 0.100879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Tilemap/AlienFlora_4.asset
+  artifactKey: Guid(29dfa7ef59a754b9daf884fe5da96c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_4.asset using Guid(29dfa7ef59a754b9daf884fe5da96c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db0900ed8291a0cf819089cd78f5fa72') in 0.019260 seconds 
+  Import took 0.023919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Tilemap/AlienFlora_27.asset
+  artifactKey: Guid(f359ac1a728b1418eadeefd801c82f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_27.asset using Guid(f359ac1a728b1418eadeefd801c82f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55653a5f3bfcef6496fe68a394e110b0') in 0.010947 seconds 
+  Import took 0.015240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Tilemap/AlienFlora_38.asset
+  artifactKey: Guid(f46e56eaf319f4bca8c7299902db0361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_38.asset using Guid(f46e56eaf319f4bca8c7299902db0361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcaae4c3e0f3d509f525afbd6215e5ea') in 0.030703 seconds 
+  Import took 0.034702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Tilemap/AlienFlora_31.asset
+  artifactKey: Guid(c1c7aa894f20e48bd931054231df1880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_31.asset using Guid(c1c7aa894f20e48bd931054231df1880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '349c4058ff87b09975252bb7b389d5f1') in 0.012890 seconds 
+  Import took 0.016530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Floor2.asset
+  artifactKey: Guid(f047c057c860241f4af6d45f5482f1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Floor2.asset using Guid(f047c057c860241f4af6d45f5482f1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9275775d410170314a53b6f2981e776e') in 0.091145 seconds 
+  Import took 0.105552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Tilemap/AlienFlora_28.asset
+  artifactKey: Guid(d642fbd79b7f74a1ea0684ac26729b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_28.asset using Guid(d642fbd79b7f74a1ea0684ac26729b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef3a3014857cb49655abdf36d2afe52') in 0.011555 seconds 
+  Import took 0.016549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Tilemap/FloatingRocks_10.asset
+  artifactKey: Guid(86514616de606400092946cd814e2136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_10.asset using Guid(86514616de606400092946cd814e2136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fef14a951d55146a847f6d9264ecea9') in 0.015335 seconds 
+  Import took 0.019944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Tilemap/AlienFlora_8.asset
+  artifactKey: Guid(dd383e8644f52434382b358476bb1525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_8.asset using Guid(dd383e8644f52434382b358476bb1525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409d90efeb27b417cfc77d00acf40f1f') in 0.030759 seconds 
+  Import took 0.035847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Tilemap/HangingPlants2_3.asset
+  artifactKey: Guid(71bdef559bd3946a38ee56edd3d10ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/HangingPlants2_3.asset using Guid(71bdef559bd3946a38ee56edd3d10ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c3ffec03173e60ebb6e81546ed8190') in 0.015619 seconds 
+  Import took 0.020460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Fill2.asset
+  artifactKey: Guid(11bb4bf731c344535aeb97cdfd4a5a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Fill2.asset using Guid(11bb4bf731c344535aeb97cdfd4a5a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398f7bcaa678c0dd689f358b35acc26c') in 0.080611 seconds 
+  Import took 0.096459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Fill0.asset
+  artifactKey: Guid(ce0e6537d3fde4cfc8dd5ba98a84f0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Fill0.asset using Guid(ce0e6537d3fde4cfc8dd5ba98a84f0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e825c2cf2fe00bf897ca167eb73d2f') in 0.094324 seconds 
+  Import took 0.109057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Tilemap/FloatingRocks_17.asset
+  artifactKey: Guid(3519cab99b8354c37bf8b6c9fb252a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_17.asset using Guid(3519cab99b8354c37bf8b6c9fb252a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe85d700c68932b79df55cc1c49a7f0') in 0.012701 seconds 
+  Import took 0.018483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Floor5.asset
+  artifactKey: Guid(ba7c6c71b746245fcaa0f109d3a4f9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Floor5.asset using Guid(ba7c6c71b746245fcaa0f109d3a4f9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18603711d6d7a266978c8081583c98b') in 0.081735 seconds 
+  Import took 0.098122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Fill3.asset
+  artifactKey: Guid(61c622cad1dd645b4bb2b87c065e21a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Fill3.asset using Guid(61c622cad1dd645b4bb2b87c065e21a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae49ae36dfcd9bc3ad9db47e1acb710') in 0.088694 seconds 
+  Import took 0.102776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Fill6.asset
+  artifactKey: Guid(ca2e58e0816994b1d8b904e44abfb9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Fill6.asset using Guid(ca2e58e0816994b1d8b904e44abfb9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a227c550abec527ec7f2ed4be3f28e0') in 0.087110 seconds 
+  Import took 0.102087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Floor4.asset
+  artifactKey: Guid(2b321d0230458486d908966c1e44c2bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Floor4.asset using Guid(2b321d0230458486d908966c1e44c2bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd59265b6d6fff9930aaf2e75bbd3751') in 0.073167 seconds 
+  Import took 0.088199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Tilemap/Tileset_Alien_FloorSingleBlockLeft.asset
+  artifactKey: Guid(77c617797041e43c49f38fd32cbc04bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_FloorSingleBlockLeft.asset using Guid(77c617797041e43c49f38fd32cbc04bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cddd4baf8947e6d791e10df5e3a901d3') in 0.071781 seconds 
+  Import took 0.086893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Tilemap/AlienFlora_30.asset
+  artifactKey: Guid(befd16f3eb0b94b80b2ba2eee39e6d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_30.asset using Guid(befd16f3eb0b94b80b2ba2eee39e6d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5a9ca93e0f188ed2aa7c8d778d84605') in 0.016783 seconds 
+  Import took 0.021136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Tilemap/FloatingRocks_5.asset
+  artifactKey: Guid(03828951d54c140f4abf76b6ad2e2165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_5.asset using Guid(03828951d54c140f4abf76b6ad2e2165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e428a3e9c89a2730d31e6868db440ca0') in 0.012534 seconds 
+  Import took 0.016907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Ceiling0.asset
+  artifactKey: Guid(28685a5d2f17c49b9a092b737a644200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Ceiling0.asset using Guid(28685a5d2f17c49b9a092b737a644200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7330f09d4e980117b66e0c0d2e7ffe28') in 0.083737 seconds 
+  Import took 0.097239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Tilemap/Tileset_Alien_CeilingCornerFloorRight.asset
+  artifactKey: Guid(66b2029e57aea4bc9a07672584f2f9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_CeilingCornerFloorRight.asset using Guid(66b2029e57aea4bc9a07672584f2f9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7364e34d396560f5fb994d99f666792e') in 0.072541 seconds 
+  Import took 0.087764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Tilemap/FloatingRocks_13.asset
+  artifactKey: Guid(36c2de18cdd6e473b9c65db6b5e24b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_13.asset using Guid(36c2de18cdd6e473b9c65db6b5e24b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7853b82f37997e48563b0fcf1b6341') in 0.033871 seconds 
+  Import took 0.038122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Tilemap/AlienFlora_11.asset
+  artifactKey: Guid(7d4758b5f1c6a405c99a341a6d6dad4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_11.asset using Guid(7d4758b5f1c6a405c99a341a6d6dad4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c208e0b201c8a61a9f81662f9785ec9') in 0.011674 seconds 
+  Import took 0.015751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Tilemap/FloatingRocks_0.asset
+  artifactKey: Guid(8ea5b1e7cca0f43e8931394a2ffabb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/FloatingRocks_0.asset using Guid(8ea5b1e7cca0f43e8931394a2ffabb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9451df808b0b44efae7c35d5803678bb') in 0.013773 seconds 
+  Import took 0.017898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Tilemap/Tileset_Alien_SingleColumnCentreCorners.asset
+  artifactKey: Guid(17c2a2ecf8ba843abb46018b8e1f250a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_SingleColumnCentreCorners.asset using Guid(17c2a2ecf8ba843abb46018b8e1f250a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e62d19bc90dfca02349528a979c65952') in 0.084232 seconds 
+  Import took 0.099575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Tilemap/AlienFlora_29.asset
+  artifactKey: Guid(ea534fbd18ce74c07a64759259eac0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/AlienFlora_29.asset using Guid(ea534fbd18ce74c07a64759259eac0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a651773a496fd5d78fa94cec9e3a77ff') in 0.011837 seconds 
+  Import took 0.016590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Tilemap/Tileset_Alien_Floor3.asset
+  artifactKey: Guid(c709f457f7d0841b88ff0c122b1b7be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Tileset_Alien_Floor3.asset using Guid(c709f457f7d0841b88ff0c122b1b7be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a44053bdcb0617434172cf752f8c0a1a') in 0.075602 seconds 
+  Import took 0.090116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 365.006299 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(9e71d3b577dd246a7a6aff355d43fe07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(9e71d3b577dd246a7a6aff355d43fe07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd31cb328cc595a2cc0a7655d08d7fc0a') in 0.003234 seconds 
+  Import took 0.009138 seconds .
+
